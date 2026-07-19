@@ -1,0 +1,42 @@
+export const materials = [
+  {
+    id: 1,
+    title: "Data Structures Notes",
+    subject: "Data Structures",
+    semester: 3,
+    type: "Notes",
+    file: "#",
+  },
+  {
+    id: 2,
+    title: "Operating Systems Question Bank",
+    subject: "Operating Systems",
+    semester: 3,
+    type: "Question Paper",
+    file: "#",
+  },
+  {
+    id: 3,
+    title: "DBMS Lab Manual",
+    subject: "DBMS",
+    semester: 3,
+    type: "Lab Manual",
+    file: "#",
+  },
+  {
+    id: 4,
+    title: "Artificial Intelligence Notes",
+    subject: "AI",
+    semester: 3,
+    type: "Notes",
+    file: "#",
+  },
+  {
+    id: 5,
+    title: "Computer Networks Notes",
+    subject: "CN",
+    semester: 4,
+    type: "Notes",
+    file: "#",
+  },
+];
