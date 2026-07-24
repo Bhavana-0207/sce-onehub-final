@@ -6,6 +6,9 @@ import { CalendarDays, MapPin, Sparkles } from "lucide-react";
 export default function FreshersBanner() {
   return (
     <section className="relative py-20 bg-[#020617] overflow-hidden">
+      <h1 className="text-6xl text-red-500 text-center">
+  TEST BANNER
+</h1>
 
       {/* Background Glow */}
       <div className="absolute -top-20 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-cyan-500/10 rounded-full blur-[140px]" />
