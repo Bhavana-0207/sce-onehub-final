@@ -1,0 +1,86 @@
+export const campusLocations = [
+  {
+    id: 1,
+    name: "Main Gate",
+    description: "Main entrance of Saranathan College of Engineering.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 2,
+    name: "Library",
+    description: "Central Library with books, journals and digital resources.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 3,
+    name: "CSE Block",
+    description: "Computer Science and Engineering Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 4,
+    name: "AI & DS Block",
+    description: "Artificial Intelligence and Data Science Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 5,
+    name: "AIML Block",
+    description: "Artificial Intelligence & Machine Learning Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 6,
+    name: "IT Block",
+    description: "Information Technology Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 7,
+    name: "ECE Block",
+    description: "Electronics and Communication Engineering Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 8,
+    name: "EEE Block",
+    description: "Electrical and Electronics Engineering Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 9,
+    name: "Civil Block",
+    description: "Civil Engineering Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 10,
+    name: "Mechanical Block",
+    description: "Mechanical Engineering Department.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 11,
+    name: "MBA Block",
+    description: "Department of Management Studies.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 12,
+    name: "Canteen",
+    description: "College food court and refreshments.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 13,
+    name: "Auditorium",
+    description: "Main auditorium for college events.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+  {
+    id: 14,
+    name: "Sports Ground",
+    description: "Outdoor sports and athletic activities.",
+    maps: "https://maps.google.com/?q=Saranathan+College+of+Engineering",
+  },
+];
