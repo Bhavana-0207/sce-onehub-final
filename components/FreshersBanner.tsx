@@ -24,13 +24,14 @@ export default function FreshersBanner() {
 
           <div className="relative">
             
-/
+
 
             <img
-              src="/freshers-poster.jpg"
-              alt="Freshers Day"
-              className="w-full h-full object-cover lg:h-[520px]"
-            />
+  src="/freshers-poster.jpg"
+  alt="Freshers Day"
+  className="w-full h-full object-cover lg:h-[520px]"
+/>
+            
 
             <div className="absolute top-5 left-5 rounded-full bg-cyan-500 text-white px-5 py-2 font-semibold flex items-center gap-2 shadow-lg">
               <Sparkles size={18} />
